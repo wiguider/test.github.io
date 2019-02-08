@@ -1,0 +1,16 @@
+---
+title:  "Language Independent Sentiment Analysis of the Shukran Social Network Using Apache Spark"
+collection: publications
+permalink: /publication/2017-10-31-semEval/
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date:   2017-10-31 12:12:07 +0100
+author: Walid Iguider
+featured: true
+tags: [Sentiment analysis, Natural language processing, Polarity detection, Naive Bayes, SentiWordNet, SenticNet ]
+venue: 4th SemWebEval Challenge at ESWC
+research: 1
+---
+
+This paper describes theShukran Sentiment Analysis system. TheShukran is a social network micro-blogging service that allows users posting photos or videos and descriptions of their daily life activities. This social network rapidly gained a large amount of users. It provides people from different cultures and countries the possibility to share in different languages their stories, ideas, opinions, and news from their real life, and makes the cultural diversity the center of relationships between its users. Sentiment analysis aims to extract the opinion of the public about some topic by processing text data. One of its several tasks, the polarity detection, aims at categorizing the elements in a dataset (sentences, posts, etc.) into classes such as positive, negative and neutral. In the system we propose, and that represents the sentiment analysis core engine of theShukran social network, we will detect the original language of users posts, translate them into English and evaluate their sentiment (whether positive, negative or neutral). We propose the use of a Naive Bayes classifier and SentiWordNet and SenticNet for the sentiment evaluation. The language detection and translation are performed using TextBlob, a Python library for processing textual data.
+
+[Download paper here](https://doi.org/10.1007/978-3-319-69146-6_12)

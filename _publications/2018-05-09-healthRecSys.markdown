@@ -1,0 +1,31 @@
+---
+title:  "Predicting Workout Quality to Help Coaches Support Sportspeople"
+collection: publications
+permalink: /publication/2018-05-09-healthRecSys/
+excerpt: 'The support of a qualified coach is crucial to keep the motivation of
+sportspeople high and help them pursuing an active lifestyle. In this
+paper, we discuss the scenario in which a coach follows sportspeople
+remotely by means of an eHealth platform, named u4fit.'
+date:   2018-05-09 12:12:07 +0100
+author: Walid Iguider
+featured: true
+tags: [Health Recommendation, Healthy Lifestyle, eCoaching, Motivation]
+venue: Proceedings of the Third International Workshop on Health Recommender Systems co-located with Twelfth ACM Conference on Recommender Systems (HealthRecSys'18)
+research: 2
+---
+
+The support of a qualified coach is crucial to keep the motivation of
+sportspeople high and help them pursuing an active lifestyle. In this
+paper, we discuss the scenario in which a coach follows sportspeople
+remotely by means of an eHealth platform, named u4fit. Having
+to deal with several users at the same time, with no direct human
+contact, means that it is hard for coaches to quickly spot who,
+among the people she follows, needs a more timely support. To this
+end, in this paper we present an automated approach that analyzes
+the adherence of sportspeople to their planned workout routines.
+The approach is able to suggest to the coach the sportspeople who
+need earlier support due to a poor performance. Experiments on
+real data, evaluated through classic accuracy metrics, show the
+effectiveness of our approach.
+
+[Download paper here](http://ceur-ws.org/Vol-2216/healthRecSys18_paper_2.pdf)
