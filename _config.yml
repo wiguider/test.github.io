@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "wiguider"
+  name             : "Walid Iguider"
   avatar           : "pp.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. Student in Mathematics and Computer Science at the University of Cagliari. "
+  location         : "Cagliari, Italy"
   employer         :
   googlescholar    : "https://scholar.google.es/citations?user=2JXOz-kAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Walid_Iguider2
   uri              :
   bitbucket        :
   codepen          :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9368-918X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@walidiguider"
   vine             :
   weibo            :
   xing             :
