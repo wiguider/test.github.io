@@ -6,7 +6,8 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src=
+        <img class="author__avatar"
+        src=
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
