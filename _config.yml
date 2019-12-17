@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Walid Iguider"
 title_separator: "-"
-name: &name "Walid"
+name: &name "Walid Iguider"
 description: &description "PhD student"
 url: https://wiguider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
