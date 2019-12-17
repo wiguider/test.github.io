@@ -2,7 +2,6 @@
 title: RivasBot Premium
 author: walid
 permalink: /rivasbot/
-image: /images/rivasbot.png
 excerpt: "The Project consists of a an application used to control an embedded system moving on a 2-dimensional level, meaning we will concentrate on developing an application for mobile phones as well as the fine tuning of the operating system of the embedded system."
 collection: portfolio
 project: 650
