@@ -81,7 +81,7 @@ author:
   name: "Walid Iguider"
   avatar: "pp.jpg"
   bio: "Ph.D. Student in Mathematics and Computer Science at the University of Cagliari. "
-  location: "University of Cagliari,<br/> MCS Department, <br/>Via Ospedale, 72, <br/>09124 CAGLIARI (IT)"
+  location: "University of Cagliari,<br/> <span style='width:18px;display: inline-block;'></span>MCS Department, <br/><span style='width:18px;display: inline-block;'></span>Via Ospedale, 72, <br/><span style='width:18px;display: inline-block;'></span>09124 CAGLIARI (IT)"
   employer:
   googlescholar: "https://scholar.google.es/citations?user=2JXOz-kAAAAJ&hl=en"
   email:
