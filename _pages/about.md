@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Department of Mathematics and Computer Science of the [University of Cagliari](https://www.unica.it), advised by Prof. [Salvatore Mario Carta](http://people.unica.it/salvatoremariocarta/) and Dr. [Ludovico Boratto](https://www.ludovicoboratto.com/).  During my Ph.D., I am collaborating with the Data Science and Big Data Analytics research group at [Eurecat – Technology Centre of Catalonia](https://eurecat.org/en/) (Spain), [Abinsula](https://www.abinsula.com/en/) (Italy), and [U4FIT](https://www.u4fit.com/) (Italy).
+**Walid Iguider, Ph.D.** is a senior data scientist at [Stackhouse](http://stackhouse.it/). He has about a decade of total experience, with more than 4 years in Data Science and more than 5 years in Software Engineering, leading and building projects in an Agile fashion. 
 
-My Ph.D. is supported by a grant from the **National Operational Programme ESF-ERDF “Research and Innovation" 2014-2020**, promoted by the **Italian Ministry of Education, University and Research**.
+As a Senior Data Scientist, Dr. Iguider helps business owners reach their goals using AI based technologies. He leads, designs & develops innovative AI/ML products, based on Recommender Systems, Sentiment Analysis, Decision support systems... 
 
-My current research interests focus on Algorithmic Fairness, Recommender Systems, and User Modeling.
+Prior to joining Stackhouse, Dr. Iguider was a senior data scientist at [Athlos](https://www.athlos.biz/). Earlier, he was a doctoral researcher at the [Artificial Intelligence and Big Data Laboratory](https://aibd.unica.it/) collaborating with [Abinsula Srl](abinsula.com) and the [Data Science and Big Data Analytics](https://eurecat.org/en/field-of-knowledge/big-data-data-science/) research group of [Eurecat: The Technology Centre of Catalonia](https://eurecat.org/en/eurecat/). 
 
-Besides research work, I am also contributing to the Project Management and Software Development of the [U4FIT](https://www.u4fit.com/) platform.
+Dr. Iguider has a master's degree in Software Quality from [Sidi Mohamed Ben Abdellah University of Fez](http://www.usmba.ac.ma/) and completed his doctoral program in Computer Science, with a focus on Data Science, at the [University of Cagliari](https://www.unica.it/). 
 
-Prior to starting the Ph.D., I was Data Scientist at [theShukran](http://www.theshukran.com/) (Italy). Earlier, I was a Software Engineer at [Softfobia](https://www.softfobia.com/) (Italy). I have also held Scrum Master and Software Engineering positions at [B3G Technologies](http://www.b3gtech.com/) (Morocco), [CGI](https://www.cgi.com/en) (Morocco), and [ALTEN](https://www.alten.com/) (Morocco).
+In particular, the goal of his Ph.D. was to levrage Machine Learning to support decision-making in sports remote coaching plateforms. 
 
-My prior work experience also includes teaching Object-Oriented Programming at [Mohammed V University](http://www.um5.ac.ma/um5r/).
-
-Before moving to Italy, I completed a Bachelor’s degree in Mathematics and Computer Science at [Mohammed V University](http://www.um5.ac.ma/um5r/) of Rabat and Master’s degree in Software Quality at [Sidi Mohamed Ben Abdellah University](http://www.usmba.ac.ma) of Fez. I am fluent in Arabic, Darija, English, French, and Italian, and have a steadily improving command of Spanish.
+His experience includes collaborating with national and international companies in Emirates, France, Italy, Morocco, and Spain.
+He is fluent in Arabic, English, French, and Italian.
