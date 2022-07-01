@@ -9,8 +9,8 @@
 locale: "en-US"
 title: "Walid Iguider"
 title_separator: "-"
-name: &name "Walid Iguider"
-description: &description "PhD student"
+name: &name "Walid Iguider, PhD"
+description: &description "Senior Data Scientist And Researcher"
 url: https://wiguider.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "wiguider/wiguider.github.io"
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name: "Walid Iguider"
-  avatar: "pp.jpg"
-  bio: "Ph.D. Student in Mathematics and Computer Science at the University of Cagliari. "
-  location: "University of Cagliari,<br/> <span style='width:18px;display: inline-block;'></span>MCS Department, <br/><span style='width:18px;display: inline-block;'></span>Via Ospedale, 72, <br/><span style='width:18px;display: inline-block;'></span>09124 CAGLIARI (IT)"
-  employer:
+  avatar: "https://avatars.githubusercontent.com/u/5427781?v=4"
+  bio: "Senior Data Scientist And Researcher"
+  location: 
+  employer: "Stackhouse"
   googlescholar: "https://scholar.google.es/citations?user=2JXOz-kAAAAJ&hl=en"
   email:
   researchgate: https://www.researchgate.net/profile/Walid_Iguider2
