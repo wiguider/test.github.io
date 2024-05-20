@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Here's the content of the PDF file transformed into Markdown:
-
----
-
-
 
 About a decade working cross-functionally with national and international teams and stakeholders, with more than 6 years in Data Science Roles.
 
@@ -115,6 +110,3 @@ I worked within different companies in Morocco and Italy as a Web/Mobile applica
 - Presenter at the Department of History Cultural Heritage and Territory, University of Cagliari  
   Subject: An open lesson about Moroccan music in collaboration with the Interdisciplinary Laboratory on Music
 
----
-
-Feel free to ask if you need any further modifications or additional sections converted.
