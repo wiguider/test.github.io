@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Walid Iguider, Ph.D.** is a senior data scientist at [Stackhouse](http://stackhouse.it/). He has about a decade of total experience, with more than 4 years in Data Science and more than 5 years in Software Engineering, leading and building projects in an Agile fashion. 
+Here's the Markdown version of the provided HTML:
 
-As a Senior Data Scientist, Dr. Iguider helps business owners reach their goals using AI based technologies. He leads, designs & develops innovative AI/ML products, based on Recommender Systems, Sentiment Analysis, Decision support systems... 
+**Walid Iguider, Ph.D.** is a Senior Artificial Intelligence Engineer at [FairMind S.R.L.](https://www.fairmind.ai). He has more than **a decade of total experience**, with more than 6 years in **Data Science**, and more than 4 years in **Software Engineering**. At [FairMind S.R.L.](https://www.fairmind.ai), Dr. Iguider is driving AI innovation, focusing on Large Language Models (LLMs) and Responsible AI. He leads, designs & develops cutting-edge AI/ML products, including systems for recommender systems, sentiment analysis, and decision support.
 
-Prior to joining Stackhouse, Dr. Iguider was a senior data scientist at [Athlos](https://www.athlos.biz/). Earlier, he was a doctoral researcher at the [Artificial Intelligence and Big Data Laboratory](https://aibd.unica.it/) collaborating with [Abinsula Srl](abinsula.com) and the [Data Science and Big Data Analytics](https://eurecat.org/en/field-of-knowledge/big-data-data-science/) research group of [Eurecat: The Technology Centre of Catalonia](https://eurecat.org/en/eurecat/). 
+Prior to joining FairMind S.R.L., Dr. Iguider was a senior data scientist at [Stackhouse](https://www.stackhouse.it) ([Spindox S.P.A.](https://www.spindox.it) company). Before that, he held a position as a senior data scientist at [Athlos](https://www.athlos.biz). Earlier in his career, he was a doctoral researcher at the [Artificial Intelligence and Big Data Laboratory](https://aibd.unica.it/) and collaborated with [Abinsula Srl](https://abinsula.com/) and the Data Science and Big Data Analytics research group of [Eurecat](https://eurecat.org/en/).
 
-Dr. Iguider has a master's degree in Software Quality from [Sidi Mohamed Ben Abdellah University of Fez](http://www.usmba.ac.ma/) and completed his doctoral program in Computer Science, with a focus on Data Science, at the [University of Cagliari](https://www.unica.it/). 
+Dr. Iguider has a master's degree in Software Quality from [Sidi Mohamed Ben Abdellah University of Fez](http://www.usmba.ac.ma/) and completed his doctoral program in Computer Science, with a focus on Data Science, at the [University of Cagliari](https://www.unica.it/unica/en/homepage.page). His Ph.D. research aimed to leverage Machine Learning to support decision-making in sports remote coaching platforms.
 
-In particular, the goal of his Ph.D. was to levrage Machine Learning to support decision-making in sports remote coaching plateforms. 
-
-His experience includes collaborating with national and international companies in Emirates, France, Italy, Morocco, and Spain.
-He is fluent in Arabic, English, French, and Italian.
+His experience includes collaborating with national and international companies in **Emirates, France, Italy, Morocco, and Spain.**
+He is fluent in **Arabic, English, French, and Italian**.
